@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Noah-Willson/minichat.git/static/css/main.18155b1f.css",
+    "main.js": "/Noah-Willson/minichat.git/static/js/main.5992dfd9.js",
+    "static/js/453.3704567f.chunk.js": "/Noah-Willson/minichat.git/static/js/453.3704567f.chunk.js",
+    "index.html": "/Noah-Willson/minichat.git/index.html",
+    "main.18155b1f.css.map": "/Noah-Willson/minichat.git/static/css/main.18155b1f.css.map",
+    "main.5992dfd9.js.map": "/Noah-Willson/minichat.git/static/js/main.5992dfd9.js.map",
+    "453.3704567f.chunk.js.map": "/Noah-Willson/minichat.git/static/js/453.3704567f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18155b1f.css",
+    "static/js/main.5992dfd9.js"
+  ]
+}
